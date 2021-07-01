@@ -1,0 +1,26 @@
+// This copyright applies to all files without a copyright header.
+// Files with a copyright header shall supercede this copyright.
+
+//----------------------------------------------------------------------
+//  Copyright (c) 2021 by Edward Strauch at Strauch Consulting, LLC, and Xpeerant, Inc.
+//  Copyright (c) 2013 by Mentor Graphics Corp.
+//  Copyright (c) 2011 by Doulos Ltd.
+//
+//  Licensed under the Apache License, Version 2.0 (the "License");
+//  you may not use this file except in compliance with the License.
+//  You may obtain a copy of the License at
+//
+//  http://www.apache.org/licenses/LICENSE-2.0
+//
+//  Unless required by applicable law or agreed to in writing, software
+//  distributed under the License is distributed on an "AS IS" BASIS,
+//  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//  See the License for the specific language governing permissions and
+//  limitations under the License.
+//----------------------------------------------------------------------
+
+// Source code example for Mentor Graphics Verification Academy UVM Basics Module
+// Session 2: UVM "Hello World"
+
+// Original Author: John Aynsley, Doulos
+// Updated: Tom Fitzpatrick, Mentor Graphics

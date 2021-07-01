@@ -1,0 +1,6 @@
+-f dut/filelist
+dut_if.sv
+-f tb/my/filelist
+-f tb/env/filelist
+-f tb/tests/filelist
+tb/top/top.sv
